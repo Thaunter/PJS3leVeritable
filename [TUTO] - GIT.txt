@@ -1,0 +1,12 @@
+git clone *lien du repo git a copier* //faire attention au dossier de copie qui ne doit pas exister
+
+cd *nom du dossier du projet sur la machine*
+
+git pull origin master //verifie que tout est a jour
+
+git add *les fichier modifier* // . pour tout prendre en compte en tant que modif
+
+git commit -m "message  detaillant les modif" //va envoyer dans une nouvelle branche les modif
+
+git push origin master //connexion git avec identifiant mdp
+			//va faire fusionner les branches en attente avec la branche principal
