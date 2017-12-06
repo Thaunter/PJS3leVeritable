@@ -12,6 +12,18 @@
     
 }
 
+.header-spe{
+	margin-top: -80px;
+	  height: 900px;
+    /* The image used */
+    background-image: url("https://static.wixstatic.com/media/39ab5f_e307ce7ee0d94e14bf1025d5548768e0~mv2.jpg/v1/fill/w_1440,h_900,al_c,q_85/39ab5f_e307ce7ee0d94e14bf1025d5548768e0~mv2.webp");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+}
+
 .header-index{
 	margin-top: -80px;
 	  height: 900px;
